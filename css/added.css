@@ -1,0 +1,25 @@
+.picture{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.lang-logo{
+  height: 100px;
+  width: 100px;
+}
+
+.outsidelinks{
+  align-self: center;
+  font-size: 36px;
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-fluid{
+  width: 480px;
+  height: 250px;
+}
