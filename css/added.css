@@ -11,12 +11,25 @@
 
 .outsidelinks{
   align-self: center;
-  font-size: 36px;
-  width: 150px;
+  font-size: 12px;
+  width: 350px;
   display: flex;
   justify-content: space-between;
   margin-left: auto;
   margin-right: auto;
+}
+
+.outsidelinks-a{
+  display: flex;
+  flex-direction: column;
+}
+
+.outsidelinks i {
+  font-size: 40px;
+}
+
+.outsidelinks-a:hover {
+  text-decoration: none;
 }
 
 .img-fluid{
